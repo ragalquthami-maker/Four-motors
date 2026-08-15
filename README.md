@@ -43,7 +43,7 @@ Four-motors.jpeg
 
 Simulation Video
 
-Simulation .mov
+Simulation.mov
 
 Motor Control
 

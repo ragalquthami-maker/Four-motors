@@ -49,6 +49,3 @@ Movement Sequence
 3. Right and left alternately: 60 seconds
 4. Stop
 
-Author
-
-Electronics and Electrical Power Engineering Project
